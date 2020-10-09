@@ -20,14 +20,14 @@ export default (params) => {
 
     const calc = (x, y) => {
         return barsArr.map((c, index) => {
-            let cur = index === x || index === y ? true : false
+            let current = index === x || index === y ? true : false
             return (
                 <Bar
                     key={index}
                     id={index}
                     height={c}
                     width={width}
-                    cur={cur}
+                    current={current}
                 />
             )
         })
