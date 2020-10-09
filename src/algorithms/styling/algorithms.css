@@ -1,0 +1,19 @@
+.barContainer {
+    position: fixed;
+    bottom: 0;
+    left: 20vw;
+    width: auto;
+}
+
+.menuBar {
+    position: absolute;
+    left: 20vw;
+    top: 3vh;
+    width: 60%;
+}
+
+.controlBar {
+    position: absolute;
+    left: 2.5rem;
+    bottom: 2.5rem;
+}
