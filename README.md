@@ -16,8 +16,8 @@ I created this app due to my curiosity for sorting algorithms and their visualiz
 
 ## Built with
 
-HTML
-CSS
-Material UI
-JavaScript
-React
+* HTML
+* CSS
+* Material UI
+* JavaScript
+* React
