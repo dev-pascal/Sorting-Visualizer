@@ -18,6 +18,6 @@ I created this app due to my curiosity for sorting algorithms and their visualiz
 
 * HTML
 * CSS
-* Material UI
+* Material-UI
 * JavaScript
 * React
