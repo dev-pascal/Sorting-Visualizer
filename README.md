@@ -4,7 +4,7 @@
 
 https://dev-pascal.github.io/Sorting-Visualizer/
 
-## About the Sorting Algorithms
+## About the Algorithms
 
 I created this app due to my curiosity for sorting algorithms and their visualization. The following algorithms are included:
 
