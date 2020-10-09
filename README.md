@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-https://dev-pascal.github.io/Sorting-Visualizer/
+
 
 ## About the Algorithms
 
