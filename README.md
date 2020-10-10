@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-https://sorting-visualizer6.netlify.app
+https://sorting-visualizers.netlify.app/
 
 ## About the Algorithms
 
