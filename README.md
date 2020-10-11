@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-## Live Demo
+## Live Demo - Try it out yourself!
 
 https://sorting-visualizers.netlify.app/
 
