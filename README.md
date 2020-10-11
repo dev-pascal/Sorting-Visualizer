@@ -8,7 +8,7 @@ https://sorting-visualizers.netlify.app/
 
 I created this app due to my fascination for sorting algorithms and their visualization.
 
-The following algorithms are included:
+Currently, the following algorithms are included:
 
 1. 'Bubble sort' is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.
 
