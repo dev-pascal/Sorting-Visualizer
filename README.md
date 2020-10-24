@@ -21,5 +21,4 @@ Currently, the following algorithms are included:
 * HTML
 * CSS
 * Material-UI
-* JavaScript
 * React
