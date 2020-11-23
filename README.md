@@ -8,11 +8,11 @@ https://sorting-visualizers.netlify.app/
 
 This application visualizes three sorting algorithms. Currently, the following ones are included:
 
-1. 'Bubble sort' is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.
+* 'Bubble sort' is a simple sorting algorithm that repeatedly steps through elements, compares adjacent and swaps them if they are in an incorrect order.
 
-2. 'Insertion sort' is a simple sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
+* 'Selection sort' algorithm sorts elements by repeatedly finding the minimum element from unsorted part and putting it at the beginning.
 
-3. The 'selection sort' algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning.
+* 'Insertion sort' is a simple sorting algorithm that builds the final sorted array one item at a time.
 
 ## Built with
 
